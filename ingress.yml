@@ -6,7 +6,7 @@ metadata:
     kubernetes.io/ingress.class: alb
     alb.ingress.kubernetes.io/scheme: internet-facing
     alb.ingress.kubernetes.io/target-type: ip
-    alb.ingress.kubernetes.io/subnets: subnet-05a1d19a9b681c42c,subnet-0c2b61a43f72624ba
+    alb.ingress.kubernetes.io/subnets: subnet-0091d950b29cb3c56,subnet-01cfa47990ea3cfeb
  
 spec:
   ingressClassName: alb
